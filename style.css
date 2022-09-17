@@ -100,7 +100,9 @@ h2 {
   margin: 0;
   font-size: var(--fs-h3);
 }
-
+.section__subtitle--about {
+  height: 80px;
+}
 .section__subtitle--intro,
 .section__subtitle--about {
   background: var(--clr-accent);
